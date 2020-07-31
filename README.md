@@ -4,4 +4,4 @@ my first repo
 Hello
 This is a readme edit
 second edit
-this repo is for silly things
+this repo is for learning things
